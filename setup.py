@@ -29,7 +29,7 @@ setup(
     keywords='development',
     packages=['vipaccess'],
     install_requires=[
-        'lxml==4.2.5',
+        'lxml==4.6.2',
         'oath>=1.4.1',
         'pycryptodome==3.6.6',
         'requests',
